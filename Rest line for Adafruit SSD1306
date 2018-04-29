@@ -1,0 +1,6 @@
+Thank you first for your wonderful work with this! I have 2 notes for a sepcific OLED display sold by Adafruit: <br>
+https://www.adafruit.com/product/938 <br>
+Note 1: This display does not need pullup resistors as they are built in. <br>
+Note 2: This display DOES need the reset line pulled low for approx 10mS, prior to program start. <br>
+When I implented these two mods , your program works perfectly on this display. <br>
+Kevin Waite
